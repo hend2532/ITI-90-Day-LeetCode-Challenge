@@ -33,8 +33,12 @@ def main():
         with open(readme_path, 'r', encoding='utf-8') as f:
             content = f.read()
 
-        pattern = r"()(.*?)()"
-        replacement = f"\\1\n{table_content}\n\\3"
+        if '<!-- LEADERBOARD_START -->' not in content or '<!-- LEADERBOARD_END -->' not in content:
+            print("Leaderboard markers not found in README.md!")
+            return
+
+        pattern = r"(<!-- LEADERBOARD_START -->).*?(<!-- LEADERBOARD_END -->)"
+        replacement = f"\\1\n{table_content}\n\\2"
         updated_content = re.sub(pattern, replacement, content, flags=re.DOTALL)
 
         with open(readme_path, 'w', encoding='utf-8') as f:

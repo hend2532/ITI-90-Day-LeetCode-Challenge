@@ -5,8 +5,7 @@ on:
     branches: [main]
     paths:
       - 'Week-**/**'
-    paths-ignore:
-      - 'Week-**/README.md'
+      - '!Week-**/README.md'
 
 jobs:
   check-solution:
@@ -61,8 +60,11 @@ jobs:
           for file in ${{ steps.changed-files.outputs.all_changed_files }}; do
             case "$file" in
               *.cpp|*.cc|*.cxx|*.c)
-                g++ -std=c++17 -Wall -o /tmp/test_solution "$file" || exit 1
-                rm -f /tmp/test_solution
+                {
+                  echo '#include <string>'
+                  echo 'using namespace std;'
+                  cat "$file"
+                } | g++ -std=c++17 -Wall -x c++ - -c -o /dev/null || exit 1
                 ;;
             esac
           done

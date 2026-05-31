@@ -62,9 +62,15 @@ This repo powers the **ITI 90-Day LeetCode Challenge (Intake 46)** for ITI train
 
 ## 🏆 Leaderboard
 
-## 🏆 Leaderboard
-
 > Updated automatically every week! See [scripts/update_leaderboard.py](./scripts/update_leaderboard.py)
+
+<!-- LEADERBOARD_START -->
+
+| Rank | ✨ Participant | 📈 Problems Solved | Status |
+| :---: | :--- | :---: | :---: |
+| 1 | **Ashraf** | 1 | 🏆 |
+
+<!-- LEADERBOARD_END -->
 
 ---
 
@@ -114,8 +120,6 @@ This repo powers the **ITI 90-Day LeetCode Challenge (Intake 46)** for ITI train
 | 📺 Aditya Verma (Binary Search) | [YouTube](https://www.youtube.com/@AdityaVermaTheYoutubeGod) |
 | 📺 Back To Back SWE (Backtracking) | [YouTube](https://www.youtube.com/@BackToBackSWE) |
 | 📺 William Fiset (Graphs – later topics) | [YouTube](https://www.youtube.com/@WilliamFiset) |
-| 📊 Progress Tracker | [Google Sheet (ask instructor)](https://sheets.google.com) |
-
 ---
 
 ## 💬 Daily Discussion
