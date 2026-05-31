@@ -2,10 +2,9 @@
 
 # 🚀 ITI 90-Day LeetCode Challenge (Intake 46)
 
-[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Language](https://img.shields.io/badge/languages-40%2B%20supported-blue)]()
-[![Weeks](https://img.shields.io/badge/duration-13%20Weeks-orange)]()
-[![Problems](https://img.shields.io/badge/problems-130%2B-red)]()
+[![Language](https://img.shields.io/badge/languages-40%2B%20supported-blue)](./CONTRIBUTING.md)
+[![Weeks](https://img.shields.io/badge/duration-13%20Weeks-orange)](#-weekly-schedule)
+[![Problems](https://img.shields.io/badge/problems-130%2B-red)](#-weekly-schedule)
 
 💡 "We solve together, we learn together, we grow together." 💪
 > Every week: 1 teaching session + 1 practice session + daily solutions on GitHub!
