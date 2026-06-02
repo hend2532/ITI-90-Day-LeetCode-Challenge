@@ -192,6 +192,13 @@ This is where the real learning happens! 🧠
         <sub><b>Ahmed Shalaby</b></sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/hend2532">
+        <img src="https://github.com/hend2532.png?size=85" width="85" height="85" style="border-radius: 50%;" alt="hend2532"/><br />
+        <sub><b>Hend Hany</b></sub>
+      </a>
+    </td>
+     
   </tr>
 </table>
 
