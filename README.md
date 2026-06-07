@@ -49,7 +49,7 @@ This repo powers the **ITI 90-Day LeetCode Challenge (Intake 46)** for ITI train
 
 | 📅 Weeks Active | 🧩 Total Solutions | 👥 Active Contributors |
 | :---: | :---: | :---: |
-| 1 / 13 | 61 | 9 |
+| 1 / 13 | 73 | 10 |
 
 <!-- STATS_END -->
 
@@ -57,15 +57,16 @@ This repo powers the **ITI 90-Day LeetCode Challenge (Intake 46)** for ITI train
 
 | Rank | Participant | Problems Solved | Total Solutions (Including Multi-language) |
 | :---: | :---: | :---: | :---: |
-| 🥇 | **Mohamedsaeed** | 10 | 10 |
-| 🥈 | **Shalaby** | 10 | 10 |
-| 🥉 | **Ashraf** | 9 | 12 |
-| `4` | **Assem** | 9 | 10 |
-| `5` | **Mamdouh** | 9 | 9 |
-| `6` | **Hend** | 4 | 4 |
-| `7` | **Mahmoudenany** | 3 | 3 |
-| `8` | **Youssef** | 2 | 2 |
-| `9` | **Kareem** | 1 | 1 |
+| 🥇 | **Ashraf** | 10 | 13 |
+| 🥈 | **Assem** | 10 | 12 |
+| 🥉 | **Mamdouh** | 10 | 10 |
+| `4` | **Shalaby** | 10 | 10 |
+| `5` | **Mohamedsaeed** | 10 | 10 |
+| `6` | **Kareem** | 5 | 5 |
+| `7` | **Eslam** | 4 | 4 |
+| `8` | **Hend** | 4 | 4 |
+| `9` | **Mahmoudenany** | 3 | 3 |
+| `10` | **Youssef** | 2 | 2 |
 
 <!-- LEADERBOARD_END -->
 
@@ -195,6 +196,12 @@ This is where the real learning happens! 🧠
       <a href="https://github.com/hend2532">
         <img src="https://github.com/hend2532.png?size=85" width="85" height="85" style="border-radius: 50%;" alt="hend2532"/><br />
         <sub><b>Hend Hany</b></sub>
+      </a>
+    </td>
+      <td align="center">
+      <a href="https://github.com/EslamSalem13">
+        <img src="https://github.com/EslamSalem13.png?size=85" width="85" height="85" style="border-radius: 50%;" alt="EslamSalem13"/><br />
+        <sub><b>Eslam Salem</b></sub>
       </a>
     </td>
   </tr>
